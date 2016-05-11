@@ -1,0 +1,6 @@
+<ul id="navmenu">
+<li><a href="page1.shtml">Menu Item One</a></li>
+<li><a href="page2.shtml">Menu Item Two</a></li>
+<li><a href="page3.shtml">Menu Item Three</a></li>
+<li><a href="page4.shtml">Menu Item Four</a></li>
+</ul>
